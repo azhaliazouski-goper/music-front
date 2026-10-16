@@ -1,0 +1,1 @@
+import{_ as t}from"./B1uCU3tO.js";import{_ as n,f as r,o as c}from"./BM3sJlBF.js";import"./Cu31NctY.js";import"./C4z7D6bx.js";import"./n21ruZYr.js";import"./DEsFpQhq.js";import"./Bj6c8ERN.js";import"./DjZXBgi6.js";import"./DpB2Syul.js";import"./yW5fTHoz.js";const e={};function i(a,p){const o=t;return c(),r(o,{occasion:"birthday"})}const k=n(e,[["render",i]]);export{k as default};
